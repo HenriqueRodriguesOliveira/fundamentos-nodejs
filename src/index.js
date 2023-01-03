@@ -32,7 +32,3 @@ app.delete("/courses/:id", (request, response) => {
 
 //localhost:3333
 app.listen(3333);
-
-
-git config --global user.email "henrique_krf@outlook.com"
-  git config --global user.name "Henrique Rodrigues"
